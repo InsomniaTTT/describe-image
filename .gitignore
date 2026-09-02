@@ -1,0 +1,5 @@
+# test artifacts
+ztest.png
+__pycache__/
+*.pyc
+.DS_Store
