@@ -6,6 +6,8 @@
 用户发图 → agent 调用本 skill → 视觉模型 API 返回文字描述 → agent 基于描述回答
 ```
 
+📄 **详细使用文档:[USAGE.md](USAGE.md)** —— 适用场景、各平台安装、key 配置、prompt 模板、FAQ 排查。
+
 仓库结构就是 skill 结构,克隆到 skills 目录即完成安装。
 
 ## 一键安装(新电脑)
